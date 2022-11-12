@@ -1,0 +1,44 @@
+.heading{
+    width:100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+float: right;
+border: 1px ridge white;
+}
+
+.bigimage{
+    width: 100%;
+}
+
+#torridzone,#status{
+    font-size: 23px;
+}
+
+h4{
+    background-color: azure;
+    margin: 0px;
+    position: fixed;
+    line-height: 2;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.image{
+    display: inline-block;
+    width: 45%;
+}
+
+video{
+    background-image: url('game_console.png');
+    padding: 25px;
+    background-size: cover;
+    background-position: center;
+}
